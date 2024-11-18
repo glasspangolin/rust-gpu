@@ -12,7 +12,7 @@ use std::process::{Command, ExitCode};
 const REQUIRED_RUST_TOOLCHAIN: &str = r#"[toolchain]
 channel = "nightly-2024-05-01"
 components = ["rust-src", "rustc-dev", "llvm-tools"]
-# commit_hash = b60a1555155111e962018007a6d0ef85207db463"#;
+# commit_hash = f705de59625bb76067a5d102edc1575ff23b8845"#;
 
 fn get_rustc_commit_hash() -> Result<String, Box<dyn Error>> {
     let rustc = std::env::var("RUSTC").unwrap_or_else(|_| String::from("rustc"));
