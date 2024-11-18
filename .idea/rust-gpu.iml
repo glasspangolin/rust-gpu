@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustc_codegen_spirv-types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustc_codegen_spirv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/spirv-builder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/spirv-std/macros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/spirv-std/shared/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/spirv-std/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/multibuilder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/runners/ash/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/runners/cpu/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/runners/wgpu/builder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/runners/wgpu/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/shaders/compute-shader/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/shaders/mouse-shader/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/shaders/reduce/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/shaders/shared/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/shaders/simplest-shader/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/shaders/sky-shader/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/deps-helper/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
